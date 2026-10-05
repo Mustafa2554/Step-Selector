@@ -1,3 +1,1 @@
 # Step-Selector
-
-## [Live Demo]()
